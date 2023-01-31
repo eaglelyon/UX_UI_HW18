@@ -49,6 +49,8 @@ p {
     color: white;
     font-size: 16pt;
     padding-left: 10px;
+    width: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .signature {
@@ -130,6 +132,7 @@ h1 {
 color: white;
 font-size: 18pt;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: lighter;
 }
 
 h3 {
