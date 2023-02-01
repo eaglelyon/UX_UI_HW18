@@ -111,15 +111,12 @@ footer {
 
 .workGrid {
     display: grid;
-    grid-template-areas: 'myArea myArea';
-    grid-area: 2/1;
-    grid-template-columns: 25%;
-    grid-template-rows: 45%;
-    align-content:flex-start;
-    grid-gap: 8px;
-    padding-left: 19%;
+    grid-gap: 5px;
     padding-top: 1%;
     text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 60%;
 }
 
 .myWork{
